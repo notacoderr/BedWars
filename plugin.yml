@@ -1,0 +1,12 @@
+name: BedWars
+version: 4.1.0
+api: [4.0.0]
+main: RushToEasy\BedWars
+author: RushToEasy
+commands:
+    Bedwars:
+        description: Bedwars Main Command
+        aliases: [bw]
+    Start:
+        description: Bedwars Forcestart Command
+        aliases: [start, fs]
